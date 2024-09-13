@@ -2,5 +2,5 @@
 
 <details>
   <summary>⚡ Top Languages</summary>
-  ![](https://github-stats-96na11ewg-doggidoggis-projects.vercel.app/api/top-langs/?username=doggidoggi&&show_icons=true&theme=dark&layout=donut-vertical)
+  <img align="left" alt="doggidoggi" src="https://github-stats-96na11ewg-doggidoggis-projects.vercel.app/api/top-langs/?username=doggidoggi&&show_icons=true&theme=dark&layout=donut-vertical"/>
 </details>
