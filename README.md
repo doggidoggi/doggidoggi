@@ -16,12 +16,5 @@
   <img alt="doggidoggi" src="https://github-stats-mu-plum.vercel.app/api/top-langs/?username=doggidoggi&show_icons=true&&theme=dracula&layout=donut&hide-border=false"/>
 </details>
 
-<details>
-  <summary>
-    ⚡ GitHub Stats
-  </summary>
-  <img alt="doggidoggi" src="https://github-stats-mu-plum.vercel.app/api/?username=doggidoggi&show_icons=true&&theme=dracula&layout=donut&hide-border=false"/>
-</details>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=doggidoggi&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
